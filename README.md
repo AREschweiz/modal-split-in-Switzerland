@@ -22,4 +22,4 @@ Please copy the files etappen.dat, Haushalte.dat and zielpersonen.dat of 2005 an
 DO NOT commit or share in any way the CSV files etappen.dat, Haushalte.dat, zielpersonen.datetappen.csv, haushalte.csv or zielpersonen.csv! These are personal data.
 
 ### Contact
-Please don't hesitate to contact me if you have questions or comments about this code: antonin.danalet@are.admin.ch
+Please don't hesitate to contact befragung@are.admin.ch if you have questions or comments about this code.
